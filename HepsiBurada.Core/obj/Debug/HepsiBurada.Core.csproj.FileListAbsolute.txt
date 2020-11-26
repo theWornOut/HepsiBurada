@@ -1,0 +1,6 @@
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\bin\Debug\HepsiBurada.Core.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\bin\Debug\HepsiBurada.Core.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\obj\Debug\HepsiBurada.Core.csproj.CoreCompileInputs.cache
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\obj\Debug\HepsiBurada.Core.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\obj\Debug\HepsiBurada.Core.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Core\obj\Debug\HepsiBurada.Core.csprojAssemblyReference.cache

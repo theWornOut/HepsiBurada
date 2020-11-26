@@ -1,0 +1,9 @@
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\obj\Debug\HepsiBurada.Business.csprojAssemblyReference.cache
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\obj\Debug\HepsiBurada.Business.csproj.CoreCompileInputs.cache
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\bin\Debug\HepsiBurada.Business.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\bin\Debug\HepsiBurada.Business.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\bin\Debug\HepsiBurada.Core.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\bin\Debug\HepsiBurada.Core.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\obj\Debug\HepsiBurada.Business.csproj.CopyComplete
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\obj\Debug\HepsiBurada.Business.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.Business\obj\Debug\HepsiBurada.Business.pdb

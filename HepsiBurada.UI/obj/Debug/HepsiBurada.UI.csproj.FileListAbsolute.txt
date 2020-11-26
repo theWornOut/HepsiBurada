@@ -1,0 +1,12 @@
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.UI.exe.config
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.UI.exe
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.UI.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\obj\Debug\HepsiBurada.UI.csprojAssemblyReference.cache
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\obj\Debug\HepsiBurada.UI.csproj.CoreCompileInputs.cache
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\obj\Debug\HepsiBurada.UI.exe
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\obj\Debug\HepsiBurada.UI.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.Business.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.Core.dll
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.Business.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\bin\Debug\HepsiBurada.Core.pdb
+C:\Users\Msi\OneDrive\Masaüstü\HepsiBurada\HepsiBurada.UI\obj\Debug\HepsiBurada.UI.csproj.CopyComplete
