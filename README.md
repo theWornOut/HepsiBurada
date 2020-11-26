@@ -1,5 +1,5 @@
 # HepsiBurada
 
-# Code Review: Mars Rover
+Code Review: Mars Rover
 
-# C# Console Application
+C# Console Application
